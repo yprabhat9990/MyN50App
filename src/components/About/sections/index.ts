@@ -1,0 +1,9 @@
+export { AboutAudienceSection } from './AboutAudienceSection';
+export { AboutBeliefsSection } from './AboutBeliefsSection';
+export { AboutClaritySection } from './AboutClaritySection';
+export { AboutCtaSection } from './AboutCtaSection';
+export { AboutGapSection } from './AboutGapSection';
+export { AboutHeroSection } from './AboutHeroSection';
+export { AboutHowItWorksSection } from './AboutHowItWorksSection';
+export { AboutTrustSection } from './AboutTrustSection';
+export { AboutVisionSection } from './AboutVisionSection';
