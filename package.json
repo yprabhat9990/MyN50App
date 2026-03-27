@@ -19,7 +19,10 @@
     "test": "vitest",
     "test:ui": "vitest --ui",
     "test:run": "vitest run",
-    "gh-pages": "npm run build && gh-pages -d dist"
+    "gh-pages": "npm run build && gh-pages -d dist",
+    "perdeploy": "npm run build",
+    "deploy": "npm run gh-pages",
+    "postdeploy": "echo 'Deployment complete!'"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",
