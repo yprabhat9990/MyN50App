@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DAs1UGHr.js";var t=e();function n({title:e}){return(0,t.jsxs)(`div`,{className:`min-h-[40vh] px-6 py-12`,children:[(0,t.jsx)(`h1`,{className:`text-2xl font-bold text-slate-900 dark:text-white`,children:e}),(0,t.jsx)(`p`,{className:`mt-2 text-slate-600 dark:text-slate-400`,children:`Content coming soon.`})]})}export{n as default};

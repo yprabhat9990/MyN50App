@@ -1,0 +1,1 @@
+import{r as e}from"./jsx-runtime-DAs1UGHr.js";import{n as t}from"./createLucideIcon-DP2L4U0M.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{let t=document.title;return document.title=e,()=>{document.title=t}},[e])}export{r as t};
